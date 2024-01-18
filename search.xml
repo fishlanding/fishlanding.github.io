@@ -4,34 +4,25 @@
   
     
     <entry>
-      <title>ACGd动漫社冬游园会</title>
-      <link href="/2023/12/16/%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%B8%B8%E5%9B%AD%E4%BC%9A/"/>
-      <url>/2023/12/16/%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%B8%B8%E5%9B%AD%E4%BC%9A/</url>
+      <title>【MC】mc的下载和安装（内附懒人包）</title>
+      <link href="/2023/12/15/%E3%80%90MC%E3%80%91mc%E7%9A%84%E4%B8%8B%E8%BD%BD%E5%92%8C%E5%AE%89%E8%A3%85%EF%BC%88%E5%86%85%E9%99%84%E6%87%92%E4%BA%BA%E5%8C%85%EF%BC%89/"/>
+      <url>/2023/12/15/%E3%80%90MC%E3%80%91mc%E7%9A%84%E4%B8%8B%E8%BD%BD%E5%92%8C%E5%AE%89%E8%A3%85%EF%BC%88%E5%86%85%E9%99%84%E6%87%92%E4%BA%BA%E5%8C%85%EF%BC%89/</url>
       
-        <content type="html"><![CDATA[<span class='p center logo large red'>冬日游园会</span><span class='p right small'>2023-12-16 18:00</span><span class='p center h4'>ACG动漫社</span><ul><li><h3 id="流程"><a href="#流程" class="headerlink" title="流程"></a>流程</h3><ul><li><img src="https://picss.sunbangyan.cn/2023/12/17/871e809d03ef9032366bc9405c5a320b.jpeg" alt="冬日游园会节目单"><ul><li><img src="https://picdl.sunbangyan.cn/2023/12/17/595b183cb95e4210b5e1f899810b9e5a.jpeg" alt="随舞歌单"></li><li><h3 id="照片"><a href="#照片" class="headerlink" title="照片"></a>照片</h3></li></ul></li><li><img src="https://picss.sunbangyan.cn/2023/12/17/fd53bd017ffc9281ff44dfda5290e975.jpeg" alt="小月下"></li><li><img src="https://picst.sunbangyan.cn/2023/12/17/f1d3307b3c15d1d325a7e245c38a54ba.jpeg" alt="大fw南风"></li><li><img src="https://picdl.sunbangyan.cn/2023/12/17/9b3b45063061e70c6eee111ad26685ad.jpeg" alt="惠惠-橘子姐"></li><li><img src="https://picss.sunbangyan.cn/2023/12/17/4a68ca5385c441254c53fda99d7629e2.jpeg" alt="BT中的BT-夏时"><ul><li><h3 id="视频"><a href="#视频" class="headerlink" title="视频"></a><a href="https://easylink.cc/u6puad">视频</a></h3></li></ul></li></ul></li></ul>]]></content>
+        <content type="html"><![CDATA[<h1 id="1-JAVA的安装"><a href="#1-JAVA的安装" class="headerlink" title="1.JAVA的安装"></a>1.JAVA的安装</h1><p>游玩MC java版需要用到JAVA，而不同版本的MC需要不同的JAVA版本。<br>（ps：以下结果仅为博主的推荐，实际游玩效果取决于你的电脑）</p><div class="table-container"><table><thead><tr><th>MC版本</th><th>推荐的JAVA版本</th><th>下载链接</th></tr></thead><tbody><tr><td>1.12.2及以下</td><td>JAVA8</td><td><a href="https://dragonwell-jdk.io/#/index">https://dragonwell-jdk.io/#/index</a></td></tr><tr><td>1.13-1.16</td><td>JDK11</td><td><a href="https://dragonwell-jdk.io/#/index">https://dragonwell-jdk.io/#/index</a></td></tr><tr><td>1.16-1.19</td><td>JDK17</td><td><a href="https://www.azul.com/downloads/?package=jdk#zulu">https://www.azul.com/downloads/?package=jdk#zulu</a></td></tr><tr><td>1.19及以上</td><td>JDK21</td><td><a href="https://www.azul.com/downloads/?package=jdk#zulu">https://www.azul.com/downloads/?package=jdk#zulu</a></td></tr></tbody></table></div><h1 id="2-MC启动器的安装"><a href="#2-MC启动器的安装" class="headerlink" title="2.MC启动器的安装"></a>2.MC启动器的安装</h1><h2 id="2-1官方启动器"><a href="#2-1官方启动器" class="headerlink" title="~~2.1官方启动器"></a>~~2.1官方启动器</h2><p>博主没用过官方启动器(o^^o)♪</p><h2 id="2-2第三方启动器"><a href="#2-2第三方启动器" class="headerlink" title="2.2第三方启动器"></a>2.2第三方启动器</h2><p>常见的mc第三方启动器有hcml，pcl2等。</p><ul><li><a href="https://hmcl.huangyuhui.net/">hcml启动器</a></li><li><img src="https://telegraph-image-d2i.pages.dev/file/a4a21ad6a5cf8c0ef7162.png" alt="hcml"></li><li><a href="https://afdian.net/a/LTCat">pcl2启动器</a></li><li><img src="https://telegraph-image-d2i.pages.dev/file/8aa2495a52cfe30f20138.png" alt="pcl2"></li></ul><h1 id="3-懒人包"><a href="#3-懒人包" class="headerlink" title="3.懒人包"></a>3.懒人包</h1><p>如果你懒得去下载的话，不用担心，博主贴心的准备了一个Python脚本，用于一键下载JAVA8和hcml，pcl2两个启动器。<a href="https://pan.baidu.com/s/1Jw54PdlyejwyzvEuJZp16Q?pwd=9rnn">点我</a></p>]]></content>
       
+      
+      <categories>
+          
+          <category> mc </category>
+          
+      </categories>
       
       
         <tags>
             
-            <tag> 学校生活 </tag>
-            
-            <tag> 二次元 </tag>
+            <tag> mc，教程 </tag>
             
         </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2023/12/15/hello-world/"/>
-      <url>/2023/12/15/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-      
-      
       
     </entry>
     
